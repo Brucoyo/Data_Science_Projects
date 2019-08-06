@@ -16,7 +16,7 @@
 -MNIST dataset is used for training and test data.
 
 **4. plotly_house_prediction**
-- dash plotly is used for ***data visualization*** with **python**.
+- dash plotly is used for ***data visualization*** in **python**.
 - it is the same dataset as *#2*
 
 **5. predictive_modeling**
